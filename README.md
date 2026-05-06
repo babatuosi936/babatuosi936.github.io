@@ -28,3 +28,8 @@
 进阶方向（进行中）：
 - AI 应用开发
 - 自动化工作流
+```
+
+---
+### 📚 课程作业项目
+- [迭代算法 Slidev 代码化PPT](https://github.com/babatuosi936/create-slidev)
