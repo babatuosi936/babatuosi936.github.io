@@ -1,4 +1,4 @@
-# 👋 Hello, I'm babatousi936
+# 👋 Hello, I'm Barbatos
 
 > 🎯 目标：6个月完成「AI工程化能力」构建，从基础到大模型应用落地
 
