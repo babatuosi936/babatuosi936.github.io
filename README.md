@@ -32,4 +32,5 @@
 
 ---
 ### 📚 课程作业项目
-- [迭代算法 Slidev 代码化PPT](https://github.com/babatuosi936/create-slidev)
+- [迭代算法 Slidev 代码化PPT源代码](https://github.com/babatuosi936/create-slidev)
+- [迭代算法 Slidev 代码化PPT](https://babatuosi936.github.io/create-slidev)
